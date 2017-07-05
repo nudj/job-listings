@@ -8,6 +8,7 @@ let finance = require('../pages/finance')
 let sales = require('../pages/sales')
 let marketing = require('../pages/marketing')
 let hr = require('../pages/hr')
+let terms = require('../pages/terms')
 
 let app = express()
 app.engine('html', cons.lodash)
@@ -18,21 +19,25 @@ app.get('/about', (req, res) => {
   logger.log('warn', 'Page requested', req.url)
   res.render('index', { url: req.url, body: about() })
 })
-app.get('/finance', (req, res) => {
+app.get('/finance-start-up-jobs', (req, res) => {
   logger.log('warn', 'Page requested', req.url)
   res.render('index', { url: req.url, body: finance() })
 })
-app.get('/sales', (req, res) => {
+app.get('/sales-start-up-jobs', (req, res) => {
   logger.log('warn', 'Page requested', req.url)
   res.render('index', { url: req.url, body: sales() })
 })
-app.get('/marketing', (req, res) => {
+app.get('/marketing-start-up-jobs', (req, res) => {
   logger.log('warn', 'Page requested', req.url)
   res.render('index', { url: req.url, body: marketing() })
 })
-app.get('/hr', (req, res) => {
+app.get('/hr-start-up-jobs', (req, res) => {
   logger.log('warn', 'Page requested', req.url)
   res.render('index', { url: req.url, body: hr() })
+})
+app.get('/terms', (req, res) => {
+  logger.log('warn', 'Page requested', req.url)
+  res.render('index', { url: req.url, body: terms() })
 })
 app.get('/', (req, res) => {
   logger.log('warn', 'Page requested', req.url)

@@ -1,6 +1,6 @@
 module.exports = () => {
   return `
-  <header class="pa3 ph4-ns bg-white header">
+  <header class="pa3 ph4-ns ph2 bg-white header">
     <nav class="flex flex-row justify-between items-center">
       <div class="flex items-center">
         <a class="bg-bourbon hover-bg-ouch-blue white ph2 pv1 link f1-ns f2 black b ttu fw7 brand" href="/" title="Home">fanjuksu</a>
