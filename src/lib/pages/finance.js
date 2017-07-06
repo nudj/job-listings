@@ -22,7 +22,7 @@ module.exports = ({
         <h2 class="f2-ns fw4 ">The hottest finance jobs in the UK start-up world right now.</h1>
         <ul class="flex flex-row flex-wrap list ma0 pa0 w-100">
           <li class="w-50-ns w-100">
-            <div class="card bg-white pa4 ma4-ns ma2">
+            <div class="card bg-white pa4 ma4">
               <img src="//logo.clearbit.com/transferwise.com?s=64"/>
               <h3 class="fw4">Head of Tax</h3>
               <p class="bb b--black-10 pb4 lh-copy">TransferWise are looking for a talented Head of Tax to join their Finance team to help build out their business across the globe by leading tax affairs.</p>
@@ -30,7 +30,7 @@ module.exports = ({
             </div>
           </li>
           <li class="w-50-ns w-100">
-          <div class="card bg-white pa4 ma4-ns ma2">
+          <div class="card bg-white pa4 ma4">
             <img src="https://logo.clearbit.com/monzo.com?s=64"/>
             <h3 class="fw4">Financial Planning Analyst</h3>
             <p class="bb b--black-10 pb4 lh-copy">Monzo need a financial planner to help them develop leading edge management information and to model financial projections and scenarios..</p>

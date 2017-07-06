@@ -1,18 +1,18 @@
 {
-  "name": "maintenance",
+  "name": "job-listings",
   "version": "0.0.1",
-  "description": "Nudj maintenance placeholder",
+  "description": "Nudj Playground Project - Non-tech Job Listings",
   "main": "lib/server",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nudj/maintenance.git"
+    "url": "git+https://github.com/nudj/job-listings.git"
   },
-  "author": "Nick Collings",
+  "author": "Jamie Gunson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nudj/maintenance/issues"
+    "url": "https://github.com/nudj/job-listings/issues"
   },
-  "homepage": "https://github.com/nudj/maintenance#readme",
+  "homepage": "https://github.com/nudj/job-listings#readme",
   "standard": {
     "ignore": [
       "lib/server/assets"

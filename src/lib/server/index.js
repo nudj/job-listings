@@ -17,7 +17,6 @@ const roleMap = {
 
 let renderFormPage = (req, res) => {
   const role = req.path.slice(1).split('-')[0]
-  console.log('role', role)
   logger.log('warn', 'Page requested', req.url)
   res.render('index', { url: req.url, body: roleMap[role]({role}) })
 }

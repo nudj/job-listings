@@ -16,7 +16,7 @@ module.exports = ({
     <meta property='og:site_name' content="FANJUKSU - Find a Non-tech Job at a UK Start Up" />
     <meta property='twitter:image' content='http://nudjcms.s3.amazonaws.com/assets/images/social/fanjuksu-card-twt.jpg' />
     <meta property='og:image' content='http://nudjcms.s3.amazonaws.com/assets/images/social/fanjuksu-card-og.jpg' />
-    <link rel='icon' href='assets/images/fanjuksu-favicon.ico' type='image/x-icon' />
+    <link rel='icon' href='assets/images/fanjusksu-favicon.ico' type='image/x-icon' />
     <link rel="stylesheet" href="https://unpkg.com/tachyons@4.7.0/css/tachyons.min.css" />
     <link type="text/css" rel="stylesheet" href="assets/css/main.css">
     <script>

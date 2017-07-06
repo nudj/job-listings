@@ -22,7 +22,7 @@ module.exports = ({
         <h2 class="f2-ns fw4 ">The hottest marketing jobs in the UK start-up world right now.</h1>
         <ul class="flex flex-row flex-wrap list ma0 pa0 w-100">
           <li class="w-50-ns w-100">
-            <div class="card bg-white pa4 ma4-ns ma2">
+            <div class="card bg-white pa4 ma4">
               <img src="//logo.clearbit.com/deliveroo.com?s=64"/>
               <h3 class="fw4">Marketing Manger, Acquisition</h3>
               <p class="bb b--black-10 pb4 lh-copy">Deliveroo need a marketing manager who will focus on acquisition driving activities.</p>
@@ -30,7 +30,7 @@ module.exports = ({
             </div>
           </li>
           <li class="w-50-ns w-100">
-          <div class="card bg-white pa4 ma4-ns ma2">
+          <div class="card bg-white pa4 ma4">
             <img src="https://logo.clearbit.com/carwow.co.uk?s=64"/>
             <h3 class="fw4">Head of PPC</h3>
             <p class="bb b--black-10 pb4 lh-copy">carwow are looking for a Head of PPC to lead the growth and optimisation of their Paid Search activity.</p>

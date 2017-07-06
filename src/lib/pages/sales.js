@@ -21,7 +21,7 @@ module.exports = ({
         <h2 class="f2-ns fw4 ">The hottest sales jobs in the UK start-up world right now.</h1>
         <ul class="flex flex-row flex-wrap list ma0 pa0 w-100">
           <li class="w-50-ns w-100">
-            <div class="card bg-white pa4 ma4-ns ma2">
+            <div class="card bg-white pa4 ma4">
               <img src="//logo.clearbit.com/busuu.com?s=64"/>
               <h3 class="fw4">Corporate Sales Manager</h3>
               <p class="bb b--black-10 pb4">busuu need an experienced Sales Manager to build a strong corporate client base in the UK for their 'busuu for education' product.</p>
@@ -29,7 +29,7 @@ module.exports = ({
             </div>
           </li>
           <li class="w-50-ns w-100">
-          <div class="card bg-white pa4 ma4-ns ma2">
+          <div class="card bg-white pa4 ma4">
             <img src="https://logo.clearbit.com/spotify.com?s=64"/>
             <h3 class="fw4">Account Director</h3>
             <p class="bb b--black-10 pb4">Spotify need an Ad Sales Account Director to join their team in London to sell cross-channel solutions through multiple platforms.</p>
