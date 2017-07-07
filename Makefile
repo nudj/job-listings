@@ -1,5 +1,5 @@
-IMAGE:=nudj/maintenance
-IMAGEDEV:=nudj/maintenance-dev
+IMAGE:=nudj/job-listings
+IMAGEDEV:=nudj/job-listings-dev
 
 CWD=$(shell pwd)
 BIN:=./node_modules/.bin
@@ -18,18 +18,18 @@ buildLocal:
 		.
 
 run:
-	-@docker rm -f maintenance-dev-container 2> /dev/null || true
+	-@docker rm -f job-listings-dev-container 2> /dev/null || true
 	@echo 'App=http://localhost:9998/'
 	@docker run --rm -it \
-		--name maintenance-dev-container \
+		--name job-listings-dev-container \
 		-p 0.0.0.0:9998:80 \
 		$(IMAGE):local
 
 dev:
-	-@docker rm -f maintenance-dev-container 2> /dev/null || true
+	-@docker rm -f job-listings-dev-container 2> /dev/null || true
 	@echo 'App=http://localhost:9999/'
 	@docker run --rm -it \
-		--name maintenance-dev-container \
+		--name job-listings-dev-container \
 		-v $(CWD)/src/lib:/usr/src/lib \
 		-p 0.0.0.0:9999:80 \
 		$(IMAGEDEV) \
