@@ -5,7 +5,7 @@ steps:
   build_test:
     title: Build Test
     type: build
-    image_name: nudj/maintenance-test
+    image_name: nudj/job-listings-test
     working_directory: ${{main_clone}}
     dockerfile: Dockerfile.dev
 
@@ -17,7 +17,7 @@ steps:
   build:
     title: Build
     type: build
-    image_name: nudj/maintenance
+    image_name: nudj/job-listings
     tag: latest
     dockerfile: Dockerfile
 
