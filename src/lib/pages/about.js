@@ -11,7 +11,7 @@ module.exports = () => {
     <section class="flex flex-column justify-center mw7 w-100 center ph3 ph0-ns">
       <h1 class="f2-ns fw4 pv2 tl">About <span class="brand bg-bourbon-text hover-bg-ouch-blue-text">FANJUKSU</span></h1>
       <h2 class="pv2 ma0 fw4">Who is behind this?</h2>
-      <p class="lh-copy">The team at <a class="link black-30 dim fw7" href="#">nudj</a>, a new platform that is trying to make hiring human again (with a little help from everyone's friends).</p>
+      <p class="lh-copy">The team at <a class="link bg-bourbon-text dim fw7" href="https://nudj.co/?utm_source=referral&utm_medium=experiment&utm_campaign=fanjuksu&utm_content=about">nudj</a>, a new platform that is trying to make hiring human again (with a little help from everyone's friends).</p>
       <h2 class="ma0 pa0 fw4">Why are you doing this?</h2>
       <p class="lh-copy">We all know that the best start-ups don't run on designers and developers alone, yet most of the tools that can help you discover start-up jobs are only dedicated to those roles.</p>
       <p class="lh-copy">That's why we thought we'd collate the best non-tech jobs at the best UK start-ups and share that with whomever is interested.</p>
