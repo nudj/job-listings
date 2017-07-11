@@ -8,7 +8,7 @@ module.exports = () => {
       </div>
       <div class="tr">
         <a class="dib link dim black-30 f6 mr2 mr4-ns ttu" href="/about" title="Store">About</a>
-        <a class="link dim black-30 f6 mr2 mr4-ns ttu dib-ns dn" id="#open-intercom" href="#" title="Contact">Get in touch</a>
+        <a class="link dim black-30 f6 mr2 mr4-ns ttu dib-ns dn" id="open-intercom" href="#" title="Contact">Get in touch</a>
       </div>
     </nav>
   </header>

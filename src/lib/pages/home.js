@@ -10,7 +10,7 @@ module.exports = () => {
     ${nav()}
     <section class="flex flex-column justify-center ph3">
       <div class="mw8 w-100 center pv4 ph4 tc-ns tl">
-        <h1 class="f2-ns fw4">Looking for a Finance, Marketing, Sales or HR job at one of the UK's hottest start-ups?</h1>
+        <h1 class="f2 fw4">Looking for a Finance, Marketing, Sales or HR job at one of the UK's hottest start-ups?</h1>
       </div>
       <div class="flex flex-row flex-wrap justify-center mw9 w-100 center">
         <div class="w-25-l w-50-m w-100">
