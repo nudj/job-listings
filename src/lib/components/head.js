@@ -17,7 +17,8 @@ module.exports = ({
     <meta property='twitter:image' content='http://nudjcms.s3.amazonaws.com/assets/images/social/fanjuksu-card-twt.jpg' />
     <meta property='og:image' content='http://nudjcms.s3.amazonaws.com/assets/images/social/fanjuksu-card-og.jpg' />
     <link rel='icon' href='assets/images/fanjusksu-favicon.ico' type='image/x-icon' />
-    <link rel="stylesheet" href="https://unpkg.com/tachyons@4.7.0/css/tachyons.min.css" />
+    <link rel="stylesheet" href="https://unpkg.com/tachyons/css/tachyons.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Permanent+Marker|Work+Sans" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="assets/css/main.css">
     <script>
       (function(w, d, s, l, i) {
