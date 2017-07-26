@@ -41,7 +41,7 @@ module.exports = ({
       </div>
         <div class="bt b--black-10 pv4">
           <h2 class="f2-ns fw4 measure">Get the best marketing jobs at start-ups delivered to your inbox.</h2>
-          <p class="ph0 mh0 lh-copy">We'll collate and send you the best marketing jobs at the UK's best start-ups, every month. And unsubscribe in a click.</p>
+          <p class="ph0 mh0 lh-copy">We'll collate and send you the best marketing jobs at the UK's best start-ups, every week. And unsubscribe in a click.</p>
           ${form({role})}
         </div>
     </section>
