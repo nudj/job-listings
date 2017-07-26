@@ -8,7 +8,7 @@ module.exports = () => {
   ${head({description: 'Terms of Use and Privacy Policy for FANJUKSU (bought to you by nudj)'})}
   ${body({content: `
     ${nav()}
-    <div class="mw7 center w-100 sans-serif pv4">
+    <div class="mw7 center w-100 work-sans pv4">
       <h2 class="f2 fw4">Terms of Service</h2>
       <h3 class="fw4">1. Terms</h3>
       <p class="lh-copy">By accessing this website at <a class="link black-30"href="http://fanjuksu.com">http://fanjuksu.com</a>, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local
