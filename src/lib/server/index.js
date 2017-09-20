@@ -12,7 +12,8 @@ const roleMap = {
   finance: require('../pages/finance'),
   sales: require('../pages/sales'),
   marketing: require('../pages/marketing'),
-  hr: require('../pages/hr')
+  hr: require('../pages/hr'),
+  newsletter: require('../pages/newsletter')
 }
 
 let renderFormPage = (req, res) => {
@@ -35,6 +36,7 @@ app.get('/finance-start-up-jobs', renderFormPage)
 app.get('/sales-start-up-jobs', renderFormPage)
 app.get('/marketing-start-up-jobs', renderFormPage)
 app.get('/hr-start-up-jobs', renderFormPage)
+app.get('/newsletter', renderFormPage)
 app.get('/terms', (req, res) => {
   logger.log('warn', 'Page requested', req.url)
   res.render('index', { url: req.url, body: terms() })
