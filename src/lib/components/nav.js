@@ -7,8 +7,9 @@ module.exports = () => {
         <p class="work-sans f6-ns f7 di-ns dn ph2 pv1 black-30">Find A Non-tech Job at a UK Start Up</p>
       </div>
       <div class="tr">
-        <a class="dib link dim black-30 f6 mr2 mr4-ns ttu" href="/about" title="Store">About</a>
-        <a class="link dim black-30 f6 mr2 mr4-ns ttu dib-ns dn" id="open-intercom" href="#" title="Contact">Get in touch</a>
+        <a class="dib link dim black-30 f6 mr2 mr4-ns ttu" href="/about">About</a>
+        <a class="dib link dim black-30 f6 mr2 mr4-ns ttu" href="/newsletter" title="Store">Newsletter</a>
+        <a class="link dim black-30 f6 mr2 mr4-ns ttu dib-ns dn" href="mailto:fanjuksu@nudj.co" title="Contact">Get in touch</a>
       </div>
     </nav>
   </header>
