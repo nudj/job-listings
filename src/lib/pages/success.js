@@ -5,7 +5,7 @@ let body = require('../components/body')
 
 module.exports = () => {
   return `
-  ${head({description: 'Great job. You\'ve signed up to recieve the best jobs delivered straight to your inbox.'})}
+  ${head({description: 'Great job. You\'ve signed up to recieve the best jobs delivered straight to your inbox.', fbevent: `fbq('track', 'Lead')`})}
   ${body({content: `
     ${nav()}
     <section class="mw8 w-100 center tc ph2 pv2-ns pv4">
