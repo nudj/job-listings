@@ -37,7 +37,7 @@ module.exports = ({
         f.parentNode.insertBefore(j, f);
       })(window, document, 'script', 'dataLayer', 'GTM-WT43QJJ');
     </script>
-    <script>${fbevent}</script>
+    <script>${fbevent || ''}</script>
   </head>
   `
 }
