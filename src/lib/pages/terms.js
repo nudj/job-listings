@@ -8,7 +8,7 @@ module.exports = () => {
   ${head({description: 'Terms of Use and Privacy Policy for FANJUKSU (bought to you by nudj)'})}
   ${body({content: `
     ${nav()}
-    <div class="mw7 center w-100 work-sans pv4">
+    <div class="mw7 center w-100 work-sans pv4 ph4">
       <h2 class="f2 fw4">Terms of Service</h2>
       <h3 class="fw4">1. Terms</h3>
       <p class="lh-copy">By accessing this website at <a class="link black-30"href="http://fanjuksu.com">http://fanjuksu.com</a>, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local
@@ -38,7 +38,7 @@ module.exports = () => {
       <p class="lh-copy">It is nudj's policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise
         make use of personal information. We have outlined our privacy policy below.</p>
       <ul class="lh-copy">
-        <li>We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.</li>
+        <li>We will collect personal information by lawful and fair means and with the knowledge or consent of the individual concerned.</li>
         <li>Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.</li>
         <li>We will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law.</li>
         <li>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.</li>
@@ -47,6 +47,15 @@ module.exports = () => {
         <li>We will only retain personal information for as long as necessary for the fulfilment of those purposes.</li>
       </ul>
       <p class="lh-copy">We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. nudj may change this privacy policy from time to time at nudj's sole discretion.</p>
+      <h2 class="f2 fw4">Contact Details & Address</h2>
+      <p class="lh-copy">
+        Robyn McGirl
+        <br />2 Kensington Square
+        <br />London
+        <br />W8 5HP
+        <br />UK
+        <br /><a href="mailto:hello@nudj.co">hello@nudj.co</a>
+      </p>
     </div>
     ${footer()}
     `

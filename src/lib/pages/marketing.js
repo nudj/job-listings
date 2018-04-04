@@ -19,25 +19,9 @@ module.exports = ({
         <p class="lh-copy">Given the many different types of businesses that are starting up, there are jobs going for all types of marketers. So, whether you're a PPC wizard, a crafty content creator, a public relations guru or a jack-of-all-trades Growth Hacker there is probably an description waiting for you.</p>
       </div>
       <div class="bt b--black-10 pv4">
+        <div class="f6 link dim br1 ph3 pv2 mb2 dib white bg-black ttu">Coming soon</div>
         <h2 class="f2-ns fw4 ">The hottest marketing jobs in the UK start-up world right now.</h1>
-        <ul class="flex flex-row flex-wrap list ma0 pa0 w-100">
-          <li class="w-50-ns w-100">
-            <div class="card bg-white pa4 ma4">
-              <img src="//logo.clearbit.com/deliveroo.com?s=64"/>
-              <h3 class="fw4">Marketing Manger, Acquisition</h3>
-              <p class="bb b--black-10 pb4 lh-copy">Deliveroo need a marketing manager who will focus on acquisition driving activities.</p>
-              <a class="pointer link dim black-30" href="https://deliveroo.workable.com/jobs/520515"><small class="ttu">View job</small></a>
-            </div>
-          </li>
-          <li class="w-50-ns w-100">
-          <div class="card bg-white pa4 ma4">
-            <img src="https://logo.clearbit.com/carwow.co.uk?s=64"/>
-            <h3 class="fw4">Head of PPC</h3>
-            <p class="bb b--black-10 pb4 lh-copy">carwow are looking for a Head of PPC to lead the growth and optimisation of their Paid Search activity.</p>
-            <a class="pointer link dim black-30" href="https://carwow.workable.com/jobs/516598"><small class="ttu">View job</small></a>
-            </div?
-          </li>
-        </ul>
+        <p class="i">We're still building a "live stream" of the best marketing jobs at UK start-ups. Bare with us.</p>
       </div>
         <div class="bt b--black-10 pv4">
           <h2 class="f2-ns fw4 measure">Get the best marketing jobs at start-ups delivered to your inbox.</h2>

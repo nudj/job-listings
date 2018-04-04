@@ -19,25 +19,9 @@ module.exports = ({
         <p class="lh-copy">Of course, some may be lucky and have someone with the necessary finance skills embedded in their team (or their VC will support them). Yet, it's critical for all start-ups, particularly as they begin to scale to hire a dedicated CFO and a supporting cast of Finacial Admistrators.</p>
       </div>
       <div class="bt b--black-10 pv4">
-        <h2 class="f2-ns fw4 ">The hottest finance jobs in the UK start-up world right now.</h1>
-        <ul class="flex flex-row flex-wrap list ma0 pa0 w-100">
-          <li class="w-50-ns w-100">
-            <div class="card bg-white pa4 ma4">
-              <img src="//logo.clearbit.com/transferwise.com?s=64"/>
-              <h3 class="fw4">Head of Tax</h3>
-              <p class="bb b--black-10 pb4 lh-copy">TransferWise are looking for a talented Head of Tax to join their Finance team to help build out their business across the globe by leading tax affairs.</p>
-              <a class="pointer link dim black-30" href="https://transferwise.com/jobs/position/690382-head-of-tax"><small class="ttu">View job</small></a>
-            </div>
-          </li>
-          <li class="w-50-ns w-100">
-          <div class="card bg-white pa4 ma4">
-            <img src="https://logo.clearbit.com/monzo.com?s=64"/>
-            <h3 class="fw4">Financial Planning Analyst</h3>
-            <p class="bb b--black-10 pb4 lh-copy">Monzo need a financial planner to help them develop leading edge management information and to model financial projections and scenarios..</p>
-            <a class="pointer link dim black-30" href="https://boards.greenhouse.io/monzo/jobs/725934#.WVujdNPytL8"><small class="ttu">View job</small></a>
-            </div?
-          </li>
-        </ul>
+        <div class="f6 link br1 ph3 pv2 mb2 dib white bg-black ttu">Coming soon</div>
+        <h2 class="f2-ns fw4 ">The hottest HR jobs in the UK start-up world right now.</h1>
+        <p class="i">We're still building a "live stream" of the best HR jobs at UK start-ups. Bare with us.</p>
       </div>
         <div class="bt b--black-10 pv4">
           <h2 class="f2-ns fw4 measure">Get the best finance start-up jobs sent straight to your inbox.</h2>
